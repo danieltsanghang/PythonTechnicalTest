@@ -1,5 +1,12 @@
 # Origin Markets Backend Test
 
+# Implementation
+
+superuser login:
+account: origin
+password = origin
+token: Token 86853d0d9abab75e6db091901164bfe59e6390dd
+
 ### Spec:
 
 We would like you to implement an api to: ingest some data representing bonds, query an external api for some additional data, store the result, and make the resulting data queryable via api.
