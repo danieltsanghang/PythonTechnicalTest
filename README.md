@@ -3,8 +3,11 @@
 # Implementation
 
 superuser login:
+
 account: origin
-password = origin
+
+password: origin
+
 token: Token 86853d0d9abab75e6db091901164bfe59e6390dd
 
 ### Spec:
